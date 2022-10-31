@@ -42,7 +42,7 @@ namespace SymptomAnalyzer.Controllers
                     Constants.Issuer,
                     claims,
                     notBefore: DateTime.Now,
-                    expires: DateTime.Now.AddHours(1),
+                    expires: DateTime.Now.AddDays(1),
                     credentials
                     );
 
