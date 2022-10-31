@@ -17,10 +17,6 @@ namespace SymptomAnalyzer.Models
             string json = readJson.ReadToEnd();
             List<DartSymptomModel> items = JsonConvert.DeserializeObject<List<DartSymptomModel>>(json);
 
-            foreach (DartSymptomModel item in items)
-            {
-                Console.WriteLine(item.symptomName);
-            }
             return items;
 
         }
