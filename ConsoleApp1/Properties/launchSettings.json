@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "./carex-87914-firebase-adminsdk-z27qz-fa5e11745d.json"
+      }
+    }
+  }
+}

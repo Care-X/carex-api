@@ -5,18 +5,20 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "GOOGLE_APPLICATION_CREDENTIALS": ".\\carex-87914-firebase-adminsdk-z27qz-fa5e11745d.json"
       },
-      "dotnetRunMessages": true 
-      //"applicationUrl": "https://localhost:7260;http://localhost:5260"
+      "dotnetRunMessages": true
     },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "GOOGLE_APPLICATION_CREDENTIALS": ".\\carex-87914-firebase-adminsdk-z27qz-fa5e11745d.json"
+      },
+      "use64Bit": true
     }
   },
   "$schema": "https://json.schemastore.org/launchsettings.json",
@@ -24,7 +26,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:57096",
+      "applicationUrl": "http://localhost:57098",
       "sslPort": 44386
     }
   }

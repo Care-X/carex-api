@@ -1,0 +1,652 @@
+[
+  {
+    "symptomId": "Itching",
+    "symptomName": "Itching",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Skin_rash",
+    "symptomName": "Skin Rash",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Nodal_skin_eruptions",
+    "symptomName": "Nodal Skin Eruptions",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Continuous_sneezing",
+    "symptomName": "Continuous Sneezing",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Shivering",
+    "symptomName": "Shivering",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Chills",
+    "symptomName": "Chills",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Joint_pain",
+    "symptomName": "Joint Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Stomach_pain",
+    "symptomName": "Stomach Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Acidity",
+    "symptomName": "Acidity",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Ulcers_on_tongue",
+    "symptomName": "Ulcers On Tongue",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Muscle_wasting",
+    "symptomName": "Muscle Wasting",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Vomiting",
+    "symptomName": "Vomiting",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Burning_micturition",
+    "symptomName": "Burning Micturition",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Spotting__urination",
+    "symptomName": "Spotting Urination",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Fatigue",
+    "symptomName": "Fatigue",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Weight_gain",
+    "symptomName": "Weight Gain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Anxiety",
+    "symptomName": "Anxiety",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Cold_hands_and_feets",
+    "symptomName": "Cold Hands and Feets",
+    "isS Hecte ": false
+  },
+  {
+    "symptomId": "Mood_swings",
+    "symptomName": "Mood Swings",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Weight_loss",
+    "symptomName": "Weight Loss",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Restlessness",
+    "symptomName": "Restlessness",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Lethargy",
+    "symptomName": "Lethargy",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Patches_in_throat",
+    "symptomName": "Patches in Throat",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Irregular_sugar_level",
+    "symptomName": "Irregular Sugar Level",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Cough",
+    "symptomName": "Cough",
+    "isSelected": false
+  },
+  {
+    "symptomId": "High_fever",
+    "symptomName": "High Fever",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Sunken_eyes",
+    "symptomName": "Sunken Eyes",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Breathlessness",
+    "symptomName": "Breathlessness",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Sweating",
+    "symptomName": "Sweating",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Dehydration",
+    "symptomName": "Dehydration",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Indigestion",
+    "symptomName": "Indigestion",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Headache",
+    "symptomName": "Headache",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Yellowish_skin",
+    "symptomName": "Yellowish Skin",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Dark_urine",
+    "symptomName": "Dark Urine",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Nausea",
+    "symptomName": "Nausea",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Loss_of_appetite",
+    "symptomName": "Loss of Appetite",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Pain_behind_the_eyes",
+    "symptomName": "Pain Behind the Eyes",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Back_pain",
+    "symptomName": "Back Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Constipation",
+    "symptomName": "Constipation",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Abdominal_pain",
+    "symptomName": "Abdominal Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Diarrhoea",
+    "symptomName": "Diarrhoea",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Mild_fever",
+    "symptomName": "Mild Fever",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Yellow_urine",
+    "symptomName": "Yellow Urine",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Yellowing_of_eyes",
+    "symptomName": "Yellowing of Eyes",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Acute_liver_failure",
+    "symptomName": "Acute Liver Failure",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Fluid_overload",
+    "symptomName": "Fluid Overload",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Swelling_of_stomach",
+    "symptomName": "Swelling of Stomach",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Swelled_lymph_nodes",
+    "symptomName": "Swelled Lymph Nodes",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Malaise",
+    "symptomName": "Malaise",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Blurred_and_distorted_vision",
+    "symptomName": "Blurred and Distorted Vision",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Phlegm",
+    "symptomName": "Phlegm",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Throat_irritation",
+    "symptomName": "Throat Irritation",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Redness_of_eyes",
+    "symptomName": "Redness of Eyes",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Sinus_pressure",
+    "symptomName": "Sinus Pressure",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Runny_nose",
+    "symptomName": "Runny Nose",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Congestion",
+    "symptomName": "Congestion",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Chest_pain",
+    "symptomName": "Chest_pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Weakness_in_limbs",
+    "symptomName": "Weakness in Limbs",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Fast_heart_rate",
+    "symptomName": "Fast Heart Rate",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Pain_during_bowel_movements",
+    "symptomName": "Pain During Bowel Movements",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Pain_in_anal_region",
+    "symptomName": "Pain in Anal Region",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Bloody_stool",
+    "symptomName": "Bloody Stool",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Irritation_in_anus",
+    "symptomName": "Irritation in Anus",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Neck_pain",
+    "symptomName": "Neck Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Dizziness",
+    "symptomName": "Dizziness",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Cramps",
+    "symptomName": "Cramps",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Bruising",
+    "symptomName": "Bruising",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Obesity",
+    "symptomName": "Obesity",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Swollen_legs",
+    "symptomName": "Swollen Legs",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Swollen_blood_vessels",
+    "symptomName": "Swollen Blood Vessels",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Puffy_face_and_eyes",
+    "symptomName": "Puffy Face and Eyes",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Enlarged_thyroid",
+    "symptomName": "Enlarged Thyroid",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Brittle_nails",
+    "symptomName": "Brittle Nails",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Swollen_extremeties",
+    "symptomName": "Swollen Extremeties",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Excessive_hunger",
+    "symptomName": "Excessive Hunger",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Extra_marital_contacts",
+    "symptomName": "Extra Marital Contacts",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Drying_and_tingling_lips",
+    "symptomName": "Drying And Tingling Lips",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Slurred_speech",
+    "symptomName": "Slurred Speech",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Knee_pain",
+    "symptomName": "Knee Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Hip_joint_pain",
+    "symptomName": "Hip Joint Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Muscle_weakness",
+    "symptomName": "Muscle Weakness",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Stiff_neck",
+    "symptomName": "Stiff Neck",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Swelling_joints",
+    "symptomName": "Swelling Joints",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Movement_stiffness",
+    "symptomName": "Movement Stiffness",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Spinning_movements",
+    "symptomName": "Spinning Movements",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Loss_of_balance",
+    "symptomName": "Loss of Balance",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Unsteadiness",
+    "symptomName": "Unsteadiness",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Weakness_of_one_body_side",
+    "symptomName": "Weakness of One Body Side",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Loss_of_smell",
+    "symptomName": "Loss of Smell",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Bladder_discomfort",
+    "symptomName": "Bladder Discomfort",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Foul_smell_of_urine",
+    "symptomName": "Foul Smell of Urine",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Continuous_feel_of_urine",
+    "symptomName": "Continuous Feel of Urine",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Passage_of_gases",
+    "symptomName": "Passage of Gases",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Internal_itching",
+    "symptomName": "Internal Itching",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Toxic_look__typhos_",
+    "symptomName": "Toxic Look Typhos",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Depression",
+    "symptomName": "Depression",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Irritability",
+    "symptomName": "Irritability",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Muscle_pain",
+    "symptomName": "Muscle Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Altered_sensorium",
+    "symptomName": "Altered Sensorium",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Red_spots_over_body",
+    "symptomName": "Red Spots Over Body",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Belly_pain",
+    "symptomName": "Belly Pain",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Abnormal_menstruation",
+    "symptomName": "Abnormal Menstruation",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Dischromic__patches",
+    "symptomName": "Dischromic Patches",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Watering_from_eyes",
+    "symptomName": "Watering from Eyes",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Increased_appetite",
+    "symptomName": "Increased Appetite",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Polyuria",
+    "symptomName": "Polyuria",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Mucoid_sputum",
+    "symptomName": "Mucoid Sputum",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Rusty_sputum",
+    "symptomName": "Rusty Sputum",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Lack_of_concentration",
+    "symptomName": "Lack of Concentration",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Visual_disturbances",
+    "symptomName": "Visual Disturbances",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Receiving_blood_transfusion",
+    "symptomName": "Receiving Blood Transfusion",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Receiving_unsterile_injections",
+    "symptomName": "Receiving Unsterile Injections",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Coma",
+    "symptomName": "Coma",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Stomach_bleeding",
+    "symptomName": "Stomach Bleeding",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Distention_of_abdomen",
+    "symptomName": "Distention of Abdomen",
+    "isSelected": false
+  },
+  {
+    "symptomId": "History_of_alcohol_consumption",
+    "symptomName": "History of Alcohol Consumption",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Blood_in_sputum",
+    "symptomName": "Blood in Sputum",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Prominent_veins_on_calf",
+    "symptomName": "Prominent Veins on Calf",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Palpitations",
+    "symptomName": "Palpitations",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Painful_walking",
+    "symptomName": "Painful Walking",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Pus_filled_pimples",
+    "symptomName": "Pus Filled Pimples",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Blackheads",
+    "symptomName": "Blackheads",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Scurring",
+    "symptomName": "Scurring",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Skin_peeling",
+    "symptomName": "Skin Peeling",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Silver_like_dusting",
+    "symptomName": "Silver Like Dusting",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Small_dents_in_nails",
+    "symptomName": "Small Dents in Nails",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Inflammatory_nails",
+    "symptomName": "Inflammatory Nails",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Blister",
+    "symptomName": "Blister",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Red_sore_around_nose",
+    "symptomName": "Red Sore Around Nose",
+    "isSelected": false
+  },
+  {
+    "symptomId": "Yellow_crust_ooze",
+    "symptomName": "Yellow Crust Ooze",
+    "isSelected": false
+  }
+]
