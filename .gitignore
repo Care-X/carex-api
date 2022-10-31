@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# App secrets
+./SymptomAnalyzer/carex-87914-firebase-adminsdk-z27qz-fa5e11745d.json
+
 # User-specific files
 *.rsuser
 *.suo
